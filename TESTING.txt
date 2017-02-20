@@ -1,0 +1,41 @@
+//Radu Molea 
+
+
+(1)
+> run CallSimulationTestProgram
+PHONE NUMBER    NAME                 OUT  IN     PLAN     USED     OVER      BASE     EXTRA       HST     TOTAL
+613-111-1111    Rob Banks              10  0      200      68       0        25.00     0.00       3.25    $28.25
+819-222-2222    April Rain             3   6      200      100      0        25.00     0.00       3.25    $28.25
+613-333-3333    Rita Book              2   3      100      49       0        20.00     0.00       2.60    $22.60
+613-444-4444    Sue Permann            6   6      100      102      2        20.00     0.30       2.64    $22.94
+819-555-5555    Tim Bur                6   3      100      71       0        20.00     0.00       2.60    $22.60
+613-666-6666    Paddy O'Lantern        4   3      100      52       0        20.00     0.00       2.60    $22.60
+613-777-7777    Sam Pull               4   4      200      62       0        25.00     0.00       3.25    $28.25
+613-888-8888    Sandy Beach            4   7      300      102      0        30.00     0.00       3.90    $33.90
+819-999-9999    Adam Bomm              3   3      300      66       0        30.00     0.00       3.90    $33.90
+613-555-1234    Hugo First             6   6      300      112      0        30.00     0.00       3.90    $33.90
+613-555-5678    Lee Nover              4   6      200      97       0        25.00     0.00       3.25    $28.25
+613-666-1234    Mabel Syrup            5   6      200      101      0        25.00     0.00       3.25    $28.25
+613-666-5678    Mike Rohsopht          6   2      300      83       0        30.00     0.00       3.90    $33.90
+613-777-1234    Adam Sapple            4   9      100      114      14       20.00     2.10       2.87    $24.97
+613-777-5678    Moe Skeeto             3   11     100      113      13       20.00     1.95       2.85    $24.80
+819-888-1234    Anita Bath             4   4      100      82       0        20.00     0.00       2.60    $22.60
+613-888-5678    Rusty Chain            3   6      100      87       0        20.00     0.00       2.60    $22.60
+613-999-1234    Stu Pitt               7   5      200      97       0        25.00     0.00       3.25    $28.25
+613-999-5678    Val Crow               7   3      300      84       0        30.00     0.00       3.90    $33.90
+613-444-1234    Neil Down              5   3      300      84       0        30.00     0.00       3.90    $33.90
+
+Customer who made the most calls: Rob Banks [613-111-1111] on a (200 minute) Monthly Plan with 132 minutes remaining
+Customer who received the most calls: Moe Skeeto [613-777-5678] on a (100 minute) Monthly Plan with -13 minutes remaining
+Did Rusty Chain call April Rain: true
+Did Rusty Chain call himself: false
+Did Stu Pitt call Mabel Syrup: false
+> 
+
+(2)
+> run BinaryTreeTest
+Adding several nodes
+Displaying the tree: 
+ A B C D E F G> 
+
+
